@@ -42,4 +42,4 @@ The system calculates the SHA-256 hash of the original file and stores it in the
 ## Project Purpose
 This project demonstrates how cryptographic hashing can be used to check file integrity and detect unauthorized modifications.
 ## Author
-Student Mini Project
+Student Information Security Project
